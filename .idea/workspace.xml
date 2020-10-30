@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="fcc66d0d-b55a-4439-bdb0-6a4a74912450" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/create_qrcode.php" beforeDir="false" afterPath="$PROJECT_DIR$/create_qrcode.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/read_qrcode.php" beforeDir="false" afterPath="$PROJECT_DIR$/read_qrcode.php" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration">
+    <include_path>
+      <path value="$PROJECT_DIR$/vendor/khanamiryan/qrcode-detector-decoder" />
+      <path value="$PROJECT_DIR$/vendor/codeitnowin/barcode" />
+      <path value="$PROJECT_DIR$/vendor/composer" />
+    </include_path>
+  </component>
+  <component name="ProjectId" id="1jaqDv1z59c3eCkFm2NirrzEOtF" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$USER_HOME$/OneDrive/ma/bewijzenmap2/periode2.1/IDP/Wijzer_Amsterdam/Website/Wijzer-Amsterdam-Prototype" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="php ./read_qrcode.php" />
+    </option>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fcc66d0d-b55a-4439-bdb0-6a4a74912450" name="Default Changelist" comment="" />
+      <created>1604052433306</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1604052433306</updated>
+      <workItem from="1604052434815" duration="573000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="742" y="429" key="#Composer" timestamp="1604052449420">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="742" y="429" key="#Composer/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1604052449420" />
+    <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1604053006729">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1604053006729" />
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom" timestamp="1604052694036">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1604052694036" />
+    <state width="1877" height="282" key="GridCell.Tab.0.center" timestamp="1604052694036">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1604052694036" />
+    <state width="1877" height="282" key="GridCell.Tab.0.left" timestamp="1604052694036">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1604052694036" />
+    <state width="1877" height="282" key="GridCell.Tab.0.right" timestamp="1604052694036">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1604052694036" />
+    <state x="616" y="240" key="run.anything.popup" timestamp="1604052668466">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="616" y="240" key="run.anything.popup/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1604052668466" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1604052972937">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1604052972937" />
+  </component>
+</project>
